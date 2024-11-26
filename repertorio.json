@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "titulo": "Wonderwall",
+    "artista": "Oasis",
+    "tono": "Em"
+  },
+  {
+    "id": 2,
+    "titulo": "Hotel California",
+    "artista": "Eagles",
+    "tono": "Bm"
+  },
+  {
+    "id": 3,
+    "titulo": "Let It Be",
+    "artista": "The Beatles",
+    "tono": "C"
+  },
+  {
+    "id": 4,
+    "titulo": "Stairway to Heaven",
+    "artista": "Led Zeppelin",
+    "tono": "Am"
+  },
+  {
+    "id": 6,
+    "titulo": "Smoke on the Water",
+    "artista": "Deep Purple",
+    "tono": "Gm"
+  },
+  {
+    "id": 7,
+    "titulo": "Imagine",
+    "artista": "John Lennon",
+    "tono": "F"
+  },
+  {
+    "id": 8,
+    "titulo": "Sweet Child O' Mine",
+    "artista": "Guns N' Roses",
+    "tono": "D"
+  },
+  {
+    "id": 9,
+    "titulo": "Knocking on Heaven's Door",
+    "artista": "Bob Dylan",
+    "tono": "G"
+  },
+  {
+    "id": 10,
+    "titulo": "Hallelujah",
+    "artista": "Leonard Cohen",
+    "tono": "F#m"
+  },
+  {
+    "id": 11,
+    "titulo": "Shallow",
+    "artista": "Lady Gaga & Bradley Cooper",
+    "tono": "G"
+  }
+]
